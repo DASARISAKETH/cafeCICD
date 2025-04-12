@@ -60,7 +60,7 @@
 						</table>
 					</td>
 					<td bgcolor="aquamarine">
-						<div class="cursiveText">Our tarts are always <br/> a customer favorite!<br><br>
+						<div class="cursiveText">Our cakes are always <br/> a customer favorite!<br><br>
 					  </div>
 						<table>
 							<tr>
@@ -83,7 +83,7 @@
 			<table>
 				<tr>
 					<td><img src="images/Frank-Martha.jpg" height=auto width="400"></td>
-					<td><p>Frank and Martha have been adding sweetness to their customers' lives since 2020.  Frank's recipes have been passed down from his mother and use simple and fresh ingredients to produce delightful flavors.  Both of them will personally greet you with a welcoming smile when you visit!</p></td>
+					<td><p>Saketh and Martha have been adding sweetness to their customers' lives since 2020.  Frank's recipes have been passed down from his mother and use simple and fresh ingredients to produce delightful flavors.  Both of them will personally greet you with a welcoming smile when you visit!</p></td>
 				</tr>
 			</table>
 			<hr>
